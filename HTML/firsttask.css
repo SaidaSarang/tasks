@@ -1,0 +1,47 @@
+.task1{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin: 15%;
+
+}
+.box1{
+    background-color: #eaecf8;
+    max-width: 400px;
+    height: 300px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.box2{
+    background-color: #ddece9;
+    max-width:400px;
+    height: 300px;
+    border-radius: 5px;
+    margin: 10px;
+} 
+.box3{
+    background-color: #002fb3;
+    max-width: 400px;
+    height: 300px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.box1-text{
+    padding: 40px 30px 50px;
+  
+}
+.box2-text{
+    padding: 40px 30px 50px;
+ } 
+ .box3-text{ 
+    padding: 40px 30px 50px;
+    color: white;
+}
+.button {
+    text-decoration: none;
+    padding: 10px 16px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+}
